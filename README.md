@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Frank!](https://github.com/FrankPer-stack/FrankPer-stack/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## I am a Telematics Engineering Student, passionate about programming
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -40,6 +40,6 @@
 
 ---
 
-Credit: [Danushka2](https://github.com/Danushka2)
+Credit: [Frank](https://github.com/FrankPer-stack)
 
-Last edited on: 30/06/2022
+
