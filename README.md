@@ -78,7 +78,10 @@ Feel free to reach out to discuss projects, collaborations, or opportunities:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PeraltaP34) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peraltaromer58@gmail.com)
 
+---
 
-Credit: [Frank](https://github.com/FrankPer-stack)
+<p align="center">
+    <sub>Designed and maintained by <a href="https://github.com/FrankPer-stack">Fran</a> ✨</sub>
+</p>
 
 
