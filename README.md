@@ -50,7 +50,7 @@
 - [**Nes-Café Website**](https://github.com/FrankPer-stack/nes-cafe): A modern website built with HTML and CSS to showcase a fictional café.
 - [**Arte-Shop**](https://github.com/FrankPer-stack/ArteShop): A mobile application designed for the sale of artisanal products in Nicaragua.
 - [**E-Commerce Arte-Shop**](https://github.com/FrankPer-stack/E-Commerce---Strapi): Server side backend that is accompanied with art shop for e-commerce app functionality.
-<br/>
+---
 
 ### 📊 GitHub Stats
 ![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankPer-stack&show_icons=true&theme=dark)
