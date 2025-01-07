@@ -27,6 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+<br/>
 
 ##### Some of the technologies I have worked with
 
@@ -49,11 +50,13 @@
 - [**Nes-Café Website**](https://github.com/FrankPer-stack/nes-cafe): A modern website built with HTML and CSS to showcase a fictional café.
 - [**Arte-Shop**](https://github.com/FrankPer-stack/ArteShop): A mobile application designed for the sale of artisanal products in Nicaragua.
 - [**E-Commerce Arte-Shop**](https://github.com/FrankPer-stack/E-Commerce---Strapi): Server side backend that is accompanied with art shop for e-commerce app functionality.
+<br/>
 
 ### 📊 GitHub Stats
 ![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankPer-stack&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPer-stack&layout=compact&theme=dark)
+<br/>
 
 ### 🌟 Interests
 - 📈 Passionate about data analysis and machine learning.
