@@ -62,16 +62,14 @@
 
 ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+### 📬 Connect with Me
+Feel free to reach out to discuss projects, collaborations, or opportunities:
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/francisco-peralta-60134a272"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/PeraltaP34"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:peraltaromer58@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-peralta-60134a272) 
 [![GitHub](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrankPer-stack) 
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PeraltaP34) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peraltaromer58@gmail.com)
+
 
 Credit: [Frank](https://github.com/FrankPer-stack)
 
