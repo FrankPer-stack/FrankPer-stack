@@ -45,6 +45,21 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
+### 🚀 Projects
+- [**Nes-Café Website**](https://github.com/FrankPer-stack/nes-cafe): A modern website built with HTML and CSS to showcase a fictional café.
+- [**Arte-Shop**](https://github.com/FrankPer-stack/ArteShop): A mobile application designed for the sale of artisanal products in Nicaragua.
+- [**E-Commerce Arte-Shop**](https://github.com/FrankPer-stack/E-Commerce---Strapi): Server side backend that is accompanied with art shop for e-commerce app functionality.
+
+### 📊 GitHub Stats
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankPer-stack&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPer-stack&layout=compact&theme=dark)
+
+### 🌟 Interests
+- 📈 Passionate about data analysis and machine learning.
+- 🎮 Enjoy gaming and exploring new technologies.
+- ✈️ Love traveling and learning about different cultures.
+
 ---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
