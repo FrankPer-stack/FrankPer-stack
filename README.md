@@ -21,6 +21,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+---
+
 ##### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,6 +31,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 <br/>
 
+---
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -44,7 +47,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
-<br/>
+
+---
 
 ### 🚀 Projects
 - [**Nes-Café Website**](https://github.com/FrankPer-stack/nes-cafe): A modern website built with HTML and CSS to showcase a fictional café.
@@ -56,7 +60,8 @@
 ![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankPer-stack&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPer-stack&layout=compact&theme=dark)
-<br/>
+
+---
 
 ### 🌟 Interests
 - 📈 Passionate about data analysis and machine learning.
