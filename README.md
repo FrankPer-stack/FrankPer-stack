@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I am a Telematics Engineering Student, passionate about programming
+## I'm a Telematics Engineering Student, passionate about programming
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
